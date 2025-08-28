@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="NullClassSuite">
+  <test name="All Internship Tasks">
+    <classes>
+      <class name="tasks.Task1_SelectProduct"/>
+      <class name="tasks.Task2_AddToCart"/>
+      <class name="tasks.Task3_LoginValidation"/>
+      <class name="tasks.Task4_PriceMonitor"/>
+      <class name="tasks.Task5_EndToEndOrder"/>
+      <class name="tasks.Task6_SearchFilters"/>
+    </classes>
+  </test>
+</suite>

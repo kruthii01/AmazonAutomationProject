@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-28T13:32:13 IST" name="NullClassSuite" finished-at="2025-08-28T13:33:08 IST" duration-ms="55041">
+    <groups>
+    </groups>
+    <test started-at="2025-08-28T13:32:13 IST" name="All Internship Tasks" finished-at="2025-08-28T13:33:08 IST" duration-ms="55041">
+      <class name="tasks.Task1_SelectProduct">
+        <test-method signature="selectValidProduct()[pri:0, instance:tasks.Task1_SelectProduct@77888435]" started-at="2025-08-28T13:32:13 IST" name="selectValidProduct" finished-at="2025-08-28T13:32:25 IST" duration-ms="12204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectValidProduct -->
+      </class> <!-- tasks.Task1_SelectProduct -->
+      <class name="tasks.Task6_SearchFilters">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tasks.Task6_SearchFilters@3fc2959f]" started-at="2025-08-28T13:33:07 IST" name="setup" finished-at="2025-08-28T13:33:08 IST" duration-ms="797" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchWithFilters()[pri:0, instance:tasks.Task6_SearchFilters@3fc2959f]" started-at="2025-08-28T13:33:08 IST" name="searchWithFilters" finished-at="2025-08-28T13:33:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithFilters -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tasks.Task6_SearchFilters@3fc2959f]" started-at="2025-08-28T13:33:08 IST" name="tearDown" finished-at="2025-08-28T13:33:08 IST" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tasks.Task6_SearchFilters -->
+      <class name="tasks.Task4_PriceMonitor">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tasks.Task4_PriceMonitor@1f2586d6]" started-at="2025-08-28T13:32:37 IST" name="setup" finished-at="2025-08-28T13:32:38 IST" duration-ms="951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="monitorProductPrice()[pri:0, instance:tasks.Task4_PriceMonitor@1f2586d6]" started-at="2025-08-28T13:32:38 IST" name="monitorProductPrice" finished-at="2025-08-28T13:32:48 IST" duration-ms="9253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- monitorProductPrice -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tasks.Task4_PriceMonitor@1f2586d6]" started-at="2025-08-28T13:32:48 IST" name="tearDown" finished-at="2025-08-28T13:32:48 IST" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tasks.Task4_PriceMonitor -->
+      <class name="tasks.Task3_LoginValidation">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tasks.Task3_LoginValidation@2f4948e4]" started-at="2025-08-28T13:32:25 IST" name="setup" finished-at="2025-08-28T13:32:26 IST" duration-ms="945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="fetchProfileName()[pri:0, instance:tasks.Task3_LoginValidation@2f4948e4]" started-at="2025-08-28T13:32:26 IST" name="fetchProfileName" finished-at="2025-08-28T13:32:37 IST" duration-ms="11436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchProfileName -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tasks.Task3_LoginValidation@2f4948e4]" started-at="2025-08-28T13:32:37 IST" name="teardown" finished-at="2025-08-28T13:32:37 IST" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tasks.Task3_LoginValidation -->
+      <class name="tasks.Task2_AddToCart">
+        <test-method signature="addMultipleItemsAndVerifyCartTotal()[pri:0, instance:tasks.Task2_AddToCart@3e694b3f]" started-at="2025-08-28T13:32:25 IST" name="addMultipleItemsAndVerifyCartTotal" finished-at="2025-08-28T13:32:25 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addMultipleItemsAndVerifyCartTotal -->
+      </class> <!-- tasks.Task2_AddToCart -->
+      <class name="tasks.Task5_EndToEndOrder">
+        <test-method signature="testSearchAndPickProduct()[pri:0, instance:tasks.Task5_EndToEndOrder@10683d9d]" started-at="2025-08-28T13:32:48 IST" name="testSearchAndPickProduct" finished-at="2025-08-28T13:33:07 IST" duration-ms="18889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchAndPickProduct -->
+      </class> <!-- tasks.Task5_EndToEndOrder -->
+    </test> <!-- All Internship Tasks -->
+  </suite> <!-- NullClassSuite -->
+</testng-results>
